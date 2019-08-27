@@ -1,0 +1,18 @@
+{
+    "name": "WeatherBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:4848/api/messages",
+            "id": "6966bf30-c8c3-11e9-904a-8f8af27ff2df",
+            "name": "http://localhost:4848/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\Vazgen.Khachatryan\\Desktop\\WeatherBot\\WeatherBot\\WeatherBot.bot"
+}
